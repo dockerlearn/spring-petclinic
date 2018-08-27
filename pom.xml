@@ -118,7 +118,7 @@
         <version>0.9.9</version>
         <configuration>
           <to>
-            <image>gcr.io/coral-atom-205708/petclinic-app</image>
+            <image>gcr.io/coral-atom-205708/petclinic-app:{BUILD_NUMBER}</image>
           </to>
         </configuration>
        </plugin>
